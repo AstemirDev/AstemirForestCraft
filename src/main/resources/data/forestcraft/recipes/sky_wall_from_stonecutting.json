@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "forestcraft:sky_stone"
+  },
+  "result": "forestcraft:sky_wall",
+  "count": 1
+}

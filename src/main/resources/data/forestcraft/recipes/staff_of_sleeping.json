@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#0#",
+    " 0 "
+  ],
+  "key": {
+    "#": {
+      "item": "forestcraft:crocus_petals"
+    },
+    "0": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "forestcraft:staff_of_sleeping"
+  }
+}

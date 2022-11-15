@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:snowberry"
+    },
+    {
+      "item": "forestcraft:snowberry"
+    },
+    {
+      "item": "forestcraft:snowberry"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:snowberry_pie"
+  }
+}

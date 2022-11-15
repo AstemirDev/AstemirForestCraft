@@ -1,0 +1,6 @@
+{
+	"parent": "forestcraft:item/handheld_scythe_32x32",
+	"textures": {
+		"layer0": "forestcraft:item/galaxia"
+	}
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "forestcraft:prismatic_ore"
+  },
+  "result": "forestcraft:prismatic_diamond",
+  "experience": 1.0,
+  "cookingtime": 400
+}

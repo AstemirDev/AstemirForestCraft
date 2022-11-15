@@ -1,0 +1,7 @@
+{
+  "parent": "forestcraft:block/mystery_pile",
+  "textures": {
+    "0": "block/dirt",
+    "particle": "block/dirt"
+  }
+}

@@ -1,0 +1,30 @@
+{
+	"dandelion_hill": {
+        "path": "dandelion_hill.txt",
+        "name": "guidebook.forestcraft.dandelion_hill_structure",
+        "image": "structures/dandelion_hill_photo.png",
+        "size": [610,450],
+        "scale": 0.175
+    },
+    "dogs_lair": {
+        "path": "dogs_lair.txt",
+        "name": "guidebook.forestcraft.dogs_lair_structure",
+        "image": "structures/dogs_lair_photo.png",
+        "size": [394,450],
+        "scale": 0.225
+    },
+    "iguana_king_nest": {
+        "path": "iguana_king_nest.txt",
+        "name": "guidebook.forestcraft.iguana_king_nest_structure",
+        "image": "structures/iguana_king_nest_photo.png",
+        "size": [720,450],
+        "scale": 0.17
+    },
+     "runestone_temple": {
+        "path": "runestone_temple.txt",
+        "name": "guidebook.forestcraft.runestone_temple_structure",
+        "image": "structures/runestone_temple_photo.png",
+        "size": [526,450],
+        "scale": 0.2
+    }
+}

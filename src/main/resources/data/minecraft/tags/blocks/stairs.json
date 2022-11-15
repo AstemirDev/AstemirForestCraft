@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "forestcraft:pearlstone_stairs",
+    "forestcraft:deep_rock_stairs",
+    "forestcraft:mystery_wood_stairs"
+  ]
+}

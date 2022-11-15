@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  0",
+    " 0 ",
+    "0  "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "item": "forestcraft:didgeridoo"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:wheat"
+    },
+    "X": {
+      "item": "minecraft:cocoa_beans"
+    }
+  },
+  "result": {
+    "item": "forestcraft:chocolate_donut",
+    "count": 2
+  }
+}

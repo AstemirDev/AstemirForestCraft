@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "010",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "1": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "forestcraft:phantom_fabric"
+  }
+}

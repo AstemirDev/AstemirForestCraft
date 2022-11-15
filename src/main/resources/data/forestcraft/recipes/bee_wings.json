@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "203",
+    "0#0"
+  ],
+  "key": {
+    "0": {
+      "item": "forestcraft:sky_fragment"
+    },
+    "1": {
+      "item": "minecraft:honey_block"
+    },
+    "2": {
+      "item": "forestcraft:giant_stinger"
+    },
+    "3": {
+      "item": "forestcraft:bee"
+    },
+    "#": {
+      "item": "minecraft:elytra"
+    }
+  },
+  "result": {
+    "item": "forestcraft:bee_wings"
+  }
+}

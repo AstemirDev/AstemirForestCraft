@@ -1,0 +1,16 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "forestcraft:item/synthesizer"
+  },
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [66, 0, -45],
+			"translation": [-6.25, -0.75, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [66, 0, 45],
+			"translation": [-4.75, -0.75, 1]
+		}
+	}
+}

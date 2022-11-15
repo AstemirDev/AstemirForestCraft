@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "333",
+    "212",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:wheat"
+    },
+    "1": {
+      "item": "minecraft:milk_bucket"
+    },
+    "2": {
+      "item": "minecraft:sugar"
+    },
+    "3": {
+      "item": "forestcraft:blueberry"
+    }
+  },
+  "result": {
+    "item": "forestcraft:sweet_mega_muffin",
+    "count": 1
+  }
+}

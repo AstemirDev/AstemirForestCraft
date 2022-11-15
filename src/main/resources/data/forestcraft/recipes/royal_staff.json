@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:honeycomb"
+    },
+    "A": {
+      "item": "minecraft:honey_bottle"
+    },
+    "X": {
+      "item": "forestcraft:giant_stinger"
+    }
+  },
+  "result": {
+    "item": "forestcraft:royal_staff"
+  }
+}

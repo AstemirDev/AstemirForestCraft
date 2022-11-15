@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "forestcraft:block/snowberry_bush_empty_0"
+    },
+    "age=1": {
+      "model": "forestcraft:block/snowberry_bush_empty_1"
+    },
+    "age=2": {
+      "model": "forestcraft:block/snowberry_bush"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "forestcraft:block/grass_hay_block_top",
+    "side": "forestcraft:block/grass_hay_block_side"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dandelion"
+    },
+    {
+      "item": "minecraft:dandelion"
+    },
+    {
+      "item": "forestcraft:dandelion_seed"
+    },
+    {
+      "item": "forestcraft:dandelion_seed"
+    },
+    {
+      "item": "forestcraft:dandelion_seed"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:dandelion_wine"
+  }
+}

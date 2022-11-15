@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "forestcraft:item/music_disc_we_took_eachothers_hand"
+  }
+}

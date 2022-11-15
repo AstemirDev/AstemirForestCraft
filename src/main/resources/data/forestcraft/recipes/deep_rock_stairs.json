@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "forestcraft:deep_rock"
+    }
+  },
+  "result": {
+    "item": "forestcraft:deep_rock_stairs",
+    "count": 4
+  }
+}

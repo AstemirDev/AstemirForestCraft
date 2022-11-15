@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "forestcraft:block/pearlstone_slab"
+    },
+    "type=double": {
+      "model": "forestcraft:block/pearlstone"
+    },
+    "type=top": {
+      "model": "forestcraft:block/pearlstone_slab_top"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:weird_cucumber"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:weird_cucumber_seeds",
+    "count": 3
+  }
+}

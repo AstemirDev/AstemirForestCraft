@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/orientable_vertical",
+  "textures": {
+    "front": "forestcraft:block/electrode_front",
+    "side": "forestcraft:block/electrode_side"
+  }
+}

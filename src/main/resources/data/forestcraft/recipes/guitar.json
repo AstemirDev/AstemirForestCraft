@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "202",
+    "202",
+    "###"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "2": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "forestcraft:guitar"
+  }
+}

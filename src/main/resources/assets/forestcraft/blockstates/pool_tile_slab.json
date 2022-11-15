@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "forestcraft:block/pool_tile_slab"
+    },
+    "type=double": {
+      "model": "forestcraft:block/pool_tile_block"
+    },
+    "type=top": {
+      "model": "forestcraft:block/pool_tile_slab_top"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:insane_fur"
+    },
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "item": "minecraft:bone"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:glue_mass"
+  }
+}

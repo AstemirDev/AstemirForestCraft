@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "forestcraft:raw_venison"
+  },
+  "result": "forestcraft:cooked_venison",
+  "experience": 0.4,
+  "cookingtime": 110
+}

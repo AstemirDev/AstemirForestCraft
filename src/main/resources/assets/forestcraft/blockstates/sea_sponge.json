@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "forestcraft:block/sea_sponge"
+      }
+    }
+  ]
+}

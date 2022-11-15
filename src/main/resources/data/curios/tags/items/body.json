@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "forestcraft:chicken_wings",
+    "forestcraft:scale_wings",
+    "forestcraft:angel_wings",
+    "forestcraft:bee_wings",
+    "forestcraft:flesh_wings",
+    "forestcraft:cosmic_tentacles"
+  ]
+}
+

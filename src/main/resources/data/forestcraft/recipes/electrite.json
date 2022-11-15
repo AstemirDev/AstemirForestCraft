@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "1#1",
+    "#0#",
+    "1#1"
+  ],
+  "key": {
+    "0": {
+      "item": "forestcraft:jewel_wart"
+    },
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "#": {
+      "item": "forestcraft:thunder_feather"
+    }
+  },
+  "result": {
+    "item": "forestcraft:electrite"
+  }
+}

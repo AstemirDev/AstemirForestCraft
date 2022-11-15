@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "forestcraft:pearlstone"
+    }
+  },
+  "result": {
+    "item": "forestcraft:pearlstone_stairs",
+    "count": 4
+  }
+}

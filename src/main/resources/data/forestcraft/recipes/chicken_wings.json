@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "101",
+    "0#0"
+  ],
+  "key": {
+    "0": {
+      "item": "forestcraft:sky_fragment"
+    },
+    "1": {
+      "item": "minecraft:feather"
+    },
+    "#": {
+      "item": "forestcraft:phantom_fabric"
+    }
+  },
+  "result": {
+    "item": "forestcraft:chicken_wings"
+  }
+}

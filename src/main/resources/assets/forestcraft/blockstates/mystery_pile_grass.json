@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "forestcraft:block/mystery_pile_grass"
+      }
+    }
+  ]
+}

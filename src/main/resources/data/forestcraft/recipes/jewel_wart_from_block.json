@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:jewel_wart_block"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:jewel_wart",
+    "count": 9
+  }
+}

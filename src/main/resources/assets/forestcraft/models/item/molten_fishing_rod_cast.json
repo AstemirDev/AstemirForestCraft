@@ -1,0 +1,6 @@
+{
+    "parent": "forestcraft:item/molten_fishing_rod",
+    "textures": {
+        "layer0": "forestcraft:item/molten_fishing_rod_cast"
+    }
+}

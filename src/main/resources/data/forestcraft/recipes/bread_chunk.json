@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:bread_chunk",
+    "count": 4
+  }
+}

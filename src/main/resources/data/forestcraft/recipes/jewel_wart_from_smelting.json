@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "forestcraft:jewel_wart_ore"
+  },
+  "result": "forestcraft:jewel_wart",
+  "experience": 1.0,
+  "cookingtime": 800
+}

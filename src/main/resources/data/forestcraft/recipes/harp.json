@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 22",
+    "###",
+    "222"
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "#": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "forestcraft:harp"
+  }
+}

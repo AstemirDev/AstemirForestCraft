@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "forestcraft:block/mystery_wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "forestcraft:block/mystery_wood"
+    },
+    "axis=z": {
+      "model": "forestcraft:block/mystery_wood_horizontal",
+      "x": 90
+    }
+  }
+}

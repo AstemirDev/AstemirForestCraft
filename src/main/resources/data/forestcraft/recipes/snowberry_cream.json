@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:snowberry"
+    },
+    {
+      "item": "forestcraft:snowberry"
+    },
+    {
+      "item": "forestcraft:snowberry"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:snowberry_cream"
+  }
+}

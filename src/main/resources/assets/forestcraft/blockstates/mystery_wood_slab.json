@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "forestcraft:block/mystery_wood_slab"
+    },
+    "type=double": {
+      "model": "forestcraft:block/mystery_planks"
+    },
+    "type=top": {
+      "model": "forestcraft:block/mystery_wood_slab_top"
+    }
+  }
+}

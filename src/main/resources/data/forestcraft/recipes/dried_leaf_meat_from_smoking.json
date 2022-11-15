@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "forestcraft:leaf_meat"
+  },
+  "result": "forestcraft:dried_leaf_meat",
+  "experience": 0.4,
+  "cookingtime": 110
+}

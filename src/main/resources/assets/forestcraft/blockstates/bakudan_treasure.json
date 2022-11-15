@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "forestcraft:block/bakudan_treasure",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "forestcraft:block/bakudan_treasure",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "forestcraft:block/bakudan_treasure"
+    },
+    "facing=west": {
+      "model": "forestcraft:block/bakudan_treasure",
+      "y": 90
+    }
+  }
+}

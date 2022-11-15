@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:electrite_block"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:electrite",
+    "count": 9
+  }
+}

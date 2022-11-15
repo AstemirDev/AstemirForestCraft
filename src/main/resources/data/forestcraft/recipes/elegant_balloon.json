@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#0#",
+    "###",
+    " B "
+  ],
+  "key": {
+    "#": {
+      "item": "forestcraft:phantom_fabric"
+    },
+    "0": {
+      "item": "minecraft:red_dye"
+    },
+    "B": {
+      "item": "minecraft:lead"
+    }
+  },
+  "result": {
+    "item": "forestcraft:elegant_balloon"
+  }
+}
+

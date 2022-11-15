@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "forestcraft:ancient_scale"
+    }
+  },
+  "result": {
+    "item": "forestcraft:sea_scale_leggings"
+  }
+}

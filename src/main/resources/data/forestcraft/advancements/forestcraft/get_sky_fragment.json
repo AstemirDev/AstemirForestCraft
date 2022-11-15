@@ -1,0 +1,35 @@
+{
+  "parent": "forestcraft:forestcraft/root",
+  "display": {
+    "icon": {
+      "item": "forestcraft:sky_fragment"
+    },
+    "title": {
+      "translate": "advancements.forestcraft.get_sky_fragment_title"
+    },
+    "description": {
+      "translate": "advancements.forestcraft.get_sky_fragment_description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sky_fragment": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "forestcraft:sky_fragment"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "sky_fragment"
+    ]
+  ]
+}

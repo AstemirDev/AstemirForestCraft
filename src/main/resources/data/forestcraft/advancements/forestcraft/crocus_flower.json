@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "forestcraft:crocus_petals"
+    },
+    "title": {
+      "translate": "advancements.forestcraft.kill_crocus_flower_title"
+    },
+    "description": {
+      "translate": "advancements.forestcraft.kill_crocus_flower_description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "forestcraft:forestcraft/root",
+  "criteria": {
+    "killed_crocus_flower": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "forestcraft:crocus_flower"
+        }
+      }
+    }
+  }
+}

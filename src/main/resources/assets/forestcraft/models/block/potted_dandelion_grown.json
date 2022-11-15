@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/flower_pot_cross",
+  "textures": {
+    "plant": "forestcraft:block/dandelion_grown_pot"
+  }
+}

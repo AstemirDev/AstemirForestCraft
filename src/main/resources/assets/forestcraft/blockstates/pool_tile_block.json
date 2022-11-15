@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "forestcraft:block/pool_tile_block"
+    }
+  }
+}

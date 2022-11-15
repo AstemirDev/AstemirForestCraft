@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "forestcraft:molten_alloy"
+  },
+  "result": "forestcraft:molten_ingot",
+  "experience": 1.0,
+  "cookingtime": 800
+}

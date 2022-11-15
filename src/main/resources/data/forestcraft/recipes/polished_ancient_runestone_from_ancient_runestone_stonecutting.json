@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "forestcraft:archaic_stone"
+  },
+  "result": "forestcraft:polished_archaic_stone",
+  "count": 1
+}

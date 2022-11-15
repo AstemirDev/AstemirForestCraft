@@ -1,0 +1,6 @@
+{
+  "parent": "forestcraft:item/gunheld32x32",
+  "textures": {
+    "layer0": "forestcraft:item/demon_buster"
+  }
+}

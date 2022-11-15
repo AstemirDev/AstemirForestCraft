@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "forestcraft:block/pomidor_sapling_2"
+  }
+}

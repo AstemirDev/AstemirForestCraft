@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#00",
+    "#10",
+    "##0"
+  ],
+  "key": {
+    "#": {
+      "item": "forestcraft:archaic_stone"
+    },
+    "0": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "1": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "forestcraft:equinox_totem"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "face=ceiling,facing=east": {
+      "model": "forestcraft:block/gem_crystal_0",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=north": {
+      "model": "forestcraft:block/gem_crystal_0",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=south": {
+      "model": "forestcraft:block/gem_crystal_0",
+      "x": 180
+    },
+    "face=ceiling,facing=west": {
+      "model": "forestcraft:block/gem_crystal_0",
+      "x": 180,
+      "y": 90
+    },
+    "face=floor,facing=east": {
+      "model": "forestcraft:block/gem_crystal_0",
+      "y": 90
+    },
+    "face=floor,facing=north": {
+      "model": "forestcraft:block/gem_crystal_0"
+    },
+    "face=floor,facing=south": {
+      "model": "forestcraft:block/gem_crystal_0",
+      "y": 180
+    },
+    "face=floor,facing=west": {
+      "model": "forestcraft:block/gem_crystal_0",
+      "y": 270
+    },
+    "face=wall,facing=east": {
+      "model": "forestcraft:block/gem_crystal_0",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=north": {
+      "model": "forestcraft:block/gem_crystal_0",
+      "x": 90
+    },
+    "face=wall,facing=south": {
+      "model": "forestcraft:block/gem_crystal_0",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west": {
+      "model": "forestcraft:block/gem_crystal_0",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

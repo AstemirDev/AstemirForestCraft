@@ -1,0 +1,14 @@
+{
+  "parent": "item/shield",
+  "textures": {
+    "layer0": "forestcraft:entity/shield/honey_keeper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "forestcraft:blocking": 1
+      },
+      "model": "forestcraft:item/honey_keeper_blocking"
+    }
+  ]
+}

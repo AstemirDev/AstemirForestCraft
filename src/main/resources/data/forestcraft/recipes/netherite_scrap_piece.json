@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 0 ",
+    "0X0",
+    " 0 "
+  ],
+  "key": {
+    "0": {
+      "item": "forestcraft:molten_alloy"
+    },
+    "X": {
+      "item" : "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "forestcraft:netherite_scrap_piece"
+  }
+}

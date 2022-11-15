@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "forestcraft:block/deep_rock"
+      },
+      {
+        "model": "forestcraft:block/deep_rock_mirrored"
+      },
+      {
+        "model": "forestcraft:block/deep_rock",
+        "y": 180
+      },
+      {
+        "model": "forestcraft:block/deep_rock_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "forestcraft:item/handheld32x32_small",
+  "textures": {
+    "layer0": "forestcraft:item/mystery_scythe"
+  }
+}

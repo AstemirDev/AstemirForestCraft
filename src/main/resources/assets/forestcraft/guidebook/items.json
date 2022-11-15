@@ -1,0 +1,50 @@
+{
+	"scythes": {
+        "path": "scythes.txt",
+        "name": "guidebook.forestcraft.items_scythes",
+        "item": "forestcraft:iron_scythe",
+        "scale": 4
+    },
+    "blueberry":{
+        "path": "blueberry.txt",
+        "name": "guidebook.forestcraft.items_blueberry",
+        "item": "forestcraft:blueberry",
+        "scale": 4
+    },
+    "music_tools":{
+        "path": "music_tools.txt",
+        "name": "guidebook.forestcraft.items_music_tools",
+        "item": "forestcraft:bell",
+        "scale": 4
+    },
+    "ancient_runestone_key":{
+        "path": "ancient_runestone_key.txt",
+        "name": "guidebook.forestcraft.items_ancient_runestone_key",
+        "item": "forestcraft:archaic_key",
+        "scale": 4
+    },
+    "gems":{
+        "path": "gems.txt",
+        "name": "guidebook.forestcraft.items_gems",
+        "item": "forestcraft:gem",
+        "scale": 4
+    },
+    "sharped_leaf":{
+        "path": "sharped_leaf.txt",
+        "name": "guidebook.forestcraft.items_sharped_leaf",
+        "item": "forestcraft:sharped_leaf",
+        "scale": 4
+    },
+    "dolphinium":{
+        "path": "dolphinium.txt",
+        "name": "guidebook.forestcraft.items_dolphinium",
+        "item": "forestcraft:dolphinium",
+        "scale": 4
+    },
+    "sky_fragment":{
+        "path": "sky_fragment.txt",
+        "name": "guidebook.forestcraft.items_sky_fragment",
+        "item": "forestcraft:sky_fragment",
+        "scale": 4
+    }
+}

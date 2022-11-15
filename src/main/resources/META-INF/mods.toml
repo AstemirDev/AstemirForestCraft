@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[34,)"
+license="All rights reserved"
+[[mods]]
+modId="forestcraft"
+version="1.87"
+displayName="Astemir's Forest Craft"
+logoFile="pack.png"
+credits=""
+authors="Astemir"
+description='''
+Improve your vanilla experience.
+'''
+[[dependencies.forestcraft]]
+    modId="forge"
+    mandatory=true
+    versionRange="[34,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.forestcraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,35 @@
+{
+  "parent": "forestcraft:forestcraft/root",
+  "display": {
+    "icon": {
+      "item": "forestcraft:sharped_leaves"
+    },
+    "title": {
+      "translate": "advancements.forestcraft.get_sharped_leaf_title"
+    },
+    "description": {
+      "translate": "advancements.forestcraft.get_sharped_leaf_description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "leaf": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "forestcraft:sharped_leaf"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "leaf"
+    ]
+  ]
+}

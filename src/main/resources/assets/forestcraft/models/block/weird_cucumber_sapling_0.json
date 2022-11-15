@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "forestcraft:block/weird_cucumber_sapling_0"
+  }
+}

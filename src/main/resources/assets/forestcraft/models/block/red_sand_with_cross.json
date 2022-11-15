@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "forestcraft:block/red_sand_with_cross",
+    "side": "minecraft:block/red_sand"
+  }
+}

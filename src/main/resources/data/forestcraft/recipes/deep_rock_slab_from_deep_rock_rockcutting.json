@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "forestcraft:deep_rock"
+  },
+  "result": "forestcraft:deep_rock_slab",
+  "count": 2
+}

@@ -1,0 +1,16 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "forestcraft:item/bass_guitar"
+  },
+  "display": {
+		"thirdperson_righthand": {
+			"rotation": [66, 0, 0],
+			"translation": [-3.25, -0.25, 1.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [66, 0, 0],
+			"translation": [-7.75, -0.25, 1.75]
+		}
+	}
+}

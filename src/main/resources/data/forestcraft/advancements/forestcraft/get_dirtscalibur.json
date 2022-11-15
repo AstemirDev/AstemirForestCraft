@@ -1,0 +1,35 @@
+{
+  "parent": "forestcraft:forestcraft/root",
+  "display": {
+    "icon": {
+      "item": "forestcraft:dirtscalibur"
+    },
+    "title": {
+      "translate": "advancements.forestcraft.dirtscalibur_title"
+    },
+    "description": {
+      "translate": "advancements.forestcraft.dirtscalibur_description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dirtscalibur": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "forestcraft:dirtscalibur"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "dirtscalibur"
+    ]
+  ]
+}

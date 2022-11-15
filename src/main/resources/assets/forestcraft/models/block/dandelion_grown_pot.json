@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "forestcraft:block/dandelion_grown_item"
+  }
+}

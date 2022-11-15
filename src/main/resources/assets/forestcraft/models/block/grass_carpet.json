@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": "forestcraft:block/sheaf_of_grass_top"
+  }
+}

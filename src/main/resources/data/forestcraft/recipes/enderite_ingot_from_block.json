@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:enderite_block"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:enderite_ingot",
+    "count": 9
+  }
+}

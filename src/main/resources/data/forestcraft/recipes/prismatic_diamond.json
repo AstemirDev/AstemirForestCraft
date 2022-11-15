@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:jewel_wart"
+    },
+    {
+      "item": "forestcraft:electrite"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "forestcraft:aquamarine"
+    },
+    {
+      "item": "forestcraft:gem"
+    },
+    {
+      "item": "minecraft:emerald"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:prismatic_diamond"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "forestcraft:block/pearlstone"
+      },
+      {
+        "model": "forestcraft:block/pearlstone_mirrored"
+      },
+      {
+        "model": "forestcraft:block/pearlstone",
+        "y": 180
+      },
+      {
+        "model": "forestcraft:block/pearlstone_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

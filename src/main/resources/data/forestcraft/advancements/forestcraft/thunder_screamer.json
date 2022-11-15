@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "forestcraft:thunder_feather"
+    },
+    "title": {
+      "translate": "advancements.forestcraft.kill_thunder_screamer_title"
+    },
+    "description": {
+      "translate": "advancements.forestcraft.kill_thunder_screamer_description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "forestcraft:forestcraft/root",
+  "criteria": {
+    "killed_thunder_screamer": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "forestcraft:thunder_screamer"
+        }
+      }
+    }
+  }
+}

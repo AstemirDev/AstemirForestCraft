@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "202",
+    "202",
+    "333"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "forestcraft:banjo"
+  }
+}

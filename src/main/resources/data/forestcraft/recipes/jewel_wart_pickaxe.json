@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "item": "forestcraft:jewel_wart_block"
+  },
+  "result": {
+    "item": "forestcraft:jewel_wart_pickaxe"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:niter"
+    },
+    {
+      "item": "forestcraft:niter"
+    },
+    {
+      "item": "forestcraft:niter"
+    },
+    {
+      "item": "minecraft:dirt"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:niter_fertilizer"
+  }
+}

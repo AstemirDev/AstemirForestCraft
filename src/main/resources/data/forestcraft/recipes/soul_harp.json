@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "XBX",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "forestcraft:spectralum"
+    },
+    "B": {
+      "item": "forestcraft:harp"
+    }
+  },
+  "result": {
+    "item": "forestcraft:soul_harp"
+  }
+}

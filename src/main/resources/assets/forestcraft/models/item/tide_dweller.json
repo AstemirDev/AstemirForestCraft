@@ -1,0 +1,36 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "forestcraft:item/tide_dweller"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "using": 1,
+                "time": 0.2
+            },
+            "model": "forestcraft:item/tide_dweller_using_3"
+        },
+        {
+            "predicate": {
+                "using": 1,
+                "time": 0.4
+            },
+            "model": "forestcraft:item/tide_dweller_using_2"
+        },
+        {
+            "predicate": {
+                "using": 1,
+                "time": 0.6
+            },
+            "model": "forestcraft:item/tide_dweller_using_1"
+        },
+        {
+            "predicate": {
+                "using": 1,
+                "time": 0.8
+            },
+            "model": "forestcraft:item/tide_dweller_using_0"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "forestcraft:flesher"
+  },
+  "result": "forestcraft:cooked_flesher",
+  "experience": 0.4,
+  "cookingtime": 220
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "forestcraft:item/handheld32x32_mirrored",
+	"textures": {
+		"layer0": "forestcraft:item/leviathan"
+	}
+}

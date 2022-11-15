@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:freshwater_phantom"
+    }
+  ],
+  "result": {
+    "item": "minecraft:phantom_membrane",
+    "count": 2
+  }
+}

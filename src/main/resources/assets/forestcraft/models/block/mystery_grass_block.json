@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "forestcraft:block/mystery_grass_block_top",
+    "side": "forestcraft:block/mystery_grass_block"
+  }
+}

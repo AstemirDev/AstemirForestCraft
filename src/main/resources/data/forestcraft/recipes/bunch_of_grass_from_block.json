@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:sheaf_of_grass"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:bunch_of_grass",
+    "count": 4
+  }
+}

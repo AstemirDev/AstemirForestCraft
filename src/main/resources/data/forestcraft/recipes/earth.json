@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "forestcraft:true_dirtscalibur"
+  },
+  "addition": {
+    "item": "forestcraft:ancestor"
+  },
+  "result": {
+    "item": "forestcraft:earth"
+  }
+}

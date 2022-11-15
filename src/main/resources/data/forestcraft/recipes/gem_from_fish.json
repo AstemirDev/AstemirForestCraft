@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:geminnow"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:gem",
+    "count": 2
+  }
+}

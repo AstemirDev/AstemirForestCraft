@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "forestcraft:molten_scythe"
+    },
+    "X": {
+      "item": "forestcraft:spectralum"
+    }
+  },
+  "result": {
+    "item": "forestcraft:soul_scythe"
+  }
+}

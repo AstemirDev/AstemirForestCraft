@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "forestcraft:block/electrode_vertical",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "forestcraft:block/electrode",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "forestcraft:block/electrode"
+    },
+    "facing=south": {
+      "model": "forestcraft:block/electrode",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "forestcraft:block/electrode_vertical"
+    },
+    "facing=west": {
+      "model": "forestcraft:block/electrode",
+      "y": 270
+    }
+  }
+}

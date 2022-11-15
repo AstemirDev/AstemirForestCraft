@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:bass_guitar"
+    },
+    {
+      "item": "forestcraft:bit_machine"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:electro_guitar"
+  }
+}

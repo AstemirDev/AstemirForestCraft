@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "forestcraft:block/blooming_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "forestcraft:block/blooming_log"
+    },
+    "axis=z": {
+      "model": "forestcraft:block/blooming_log_horizontal",
+      "x": 90
+    }
+  }
+}

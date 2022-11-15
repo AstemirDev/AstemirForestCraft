@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "101",
+    "0#0"
+  ],
+  "key": {
+    "0": {
+      "item": "forestcraft:sky_fragment"
+    },
+    "1": {
+      "item": "forestcraft:iguana_scale"
+    },
+    "#": {
+      "item": "forestcraft:phantom_fabric"
+    }
+  },
+  "result": {
+    "item": "forestcraft:scale_wings"
+  }
+}

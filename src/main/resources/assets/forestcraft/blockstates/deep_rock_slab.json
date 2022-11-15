@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "forestcraft:block/deep_rock_slab"
+    },
+    "type=double": {
+      "model": "forestcraft:block/deep_rock"
+    },
+    "type=top": {
+      "model": "forestcraft:block/deep_rock_slab_top"
+    }
+  }
+}

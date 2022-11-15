@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:molten_block"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:molten_ingot",
+    "count": 9
+  }
+}

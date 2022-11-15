@@ -1,0 +1,22 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"animation_length": 0.52,
+			"bones": {
+				"galaxy_eater": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.52": [360, -360, -360]
+					},
+					"scale": {
+						"0.0": [1, 1, 1],
+						"0.24": [1.25, 1.25, 1.25],
+						"0.52": [1, 1, 1]
+					}
+				}
+			}
+		}
+	}
+}

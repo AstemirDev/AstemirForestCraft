@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "434",
+    "222"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherrack"
+    },
+    "2": {
+      "item": "forestcraft:soul_essence"
+    },
+    "3": {
+      "item": "minecraft:nether_star"
+    },
+    "4": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "forestcraft:demon_food"
+  }
+}

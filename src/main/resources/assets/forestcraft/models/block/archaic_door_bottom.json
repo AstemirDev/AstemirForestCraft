@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom",
+  "textures": {
+    "top": "forestcraft:block/archaic_door_top",
+    "bottom": "forestcraft:block/archaic_door_bottom"
+  }
+}

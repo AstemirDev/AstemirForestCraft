@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "forestcraft:vita_ore"
+  },
+  "result": "forestcraft:vita",
+  "experience": 1.0,
+  "cookingtime": 800
+}

@@ -1,0 +1,724 @@
+{
+	"block.cosmic_beacon.activate": {
+		"sounds": [
+			"forestcraft:block/cosmic_beacon_0",
+			"forestcraft:block/cosmic_beacon_1"
+		]
+	},
+	"item.wings.flap":{
+		"sounds":[
+			"forestcraft:item/wing_flap_0",
+			"forestcraft:item/wing_flap_1",
+			"forestcraft:item/wing_flap_2",
+			"forestcraft:item/wing_flap_3"
+		]
+	},
+	"block.cosmic_beacon.cosmos_echo": {
+		"sounds": [
+			"forestcraft:block/cosmos_echo"
+		]
+	},
+	"block.crystal.break": {
+		"sounds": [
+			"forestcraft:block/crystal_break"
+		]
+	},
+	"block.crystal.loop": {
+		"sounds": [
+			"forestcraft:block/crystal_loop"
+		]
+	},
+	"effect.sneeze": {
+		"sounds": [
+			"forestcraft:effects/sneeze"
+		]
+	},
+	"effect.explosion.large": {
+		"sounds": [
+			"forestcraft:effects/large_explosion"
+		]
+	},
+	"effect.explosion.giant": {
+		"sounds": [
+			"forestcraft:effects/giant_explosion"
+		]
+	},
+	"entity.cloud_ray.ambient": {
+		"sounds": [
+			"forestcraft:mob/cloud_ray/cloud_ray_ambient_0",
+			"forestcraft:mob/cloud_ray/cloud_ray_ambient_1",
+			"forestcraft:mob/cloud_ray/cloud_ray_ambient_2"
+		]
+	},
+	"entity.cloud_ray.attack": {
+		"sounds": [
+			"forestcraft:mob/cloud_ray/cloud_ray_attack"
+		]
+	},
+	"entity.cloud_ray.death": {
+		"sounds": [
+			"forestcraft:mob/cloud_ray/cloud_ray_death"
+		]
+	},
+	"entity.cloud_ray.hurt": {
+		"sounds": [
+			"forestcraft:mob/cloud_ray/cloud_ray_hurt"
+		]
+	},
+	"entity.alpha_insane_dog.ambient": {
+		"sounds": [
+			"forestcraft:mob/alpha_insane_dog/alpha_insane_dog_ambient_0",
+			"forestcraft:mob/alpha_insane_dog/alpha_insane_dog_ambient_1",
+			"forestcraft:mob/alpha_insane_dog/alpha_insane_dog_ambient_2",
+			"forestcraft:mob/alpha_insane_dog/alpha_insane_dog_ambient_3"
+		]
+	},
+	"entity.alpha_insane_dog.howl": {
+		"sounds": [
+			"forestcraft:mob/alpha_insane_dog/alpha_insane_dog_howl"
+		]
+	},
+	"entity.alpha_insane_dog.hurt": {
+		"sounds": [
+			"forestcraft:mob/alpha_insane_dog/alpha_insane_dog_hurt_0",
+			"forestcraft:mob/alpha_insane_dog/alpha_insane_dog_hurt_1"
+		]
+	},
+	"entity.ancient_runestone_hero.equinox": {
+		"sounds": [
+			"forestcraft:mob/ancient_runestone_hero/ancient_runestone_hero_equinox"
+		]
+	},
+	"entity.bakudan.ambient": {
+		"sounds": [
+			"forestcraft:mob/bakudan/bakudan_ambient_0",
+			"forestcraft:mob/bakudan/bakudan_ambient_1"
+		]
+	},
+	"entity.bakudan.death": {
+		"sounds": [
+			"forestcraft:mob/bakudan/bakudan_death"
+		]
+	},
+	"entity.bakudan.explode": {
+		"sounds": [
+			"forestcraft:mob/bakudan/bakudan_explode"
+		]
+	},
+	"entity.water_bug.ambient": {
+		"sounds": [
+			"forestcraft:mob/water_bug/water_bug_ambient_0",
+			"forestcraft:mob/water_bug/water_bug_ambient_1",
+			"forestcraft:mob/water_bug/water_bug_ambient_2"
+		]
+	},
+	"entity.water_bug.death": {
+		"sounds": [
+			"forestcraft:mob/water_bug/water_bug_death"
+		]
+	},
+	"entity.water_bug.hurt": {
+		"sounds": [
+			"forestcraft:mob/water_bug/water_bug_hurt"
+		]
+	},
+	"entity.bakudan.hurt": {
+		"sounds": [
+			"forestcraft:mob/bakudan/bakudan_hurt_0",
+			"forestcraft:mob/bakudan/bakudan_hurt_1",
+			"forestcraft:mob/bakudan/bakudan_hurt_2"
+		]
+	},
+	"entity.bakudan.recharge": {
+		"sounds": [
+			"forestcraft:mob/bakudan/bakudan_get_bomb"
+		]
+	},
+	"entity.bakudan.throw": {
+		"sounds": [
+			"forestcraft:mob/bakudan/bakudan_throw_0",
+			"forestcraft:mob/bakudan/bakudan_throw_1"
+		]
+	},
+	"entity.beequeen.music": {
+		"sounds": [
+			"forestcraft:mob/beequeen/boss_theme"
+		]
+	},
+	"entity.beequeen.screech": {
+		"sounds": [
+			"forestcraft:mob/beequeen/screech_1",
+			"forestcraft:mob/beequeen/screech_2",
+			"forestcraft:mob/beequeen/screech_3"
+		]
+	},
+	"entity.beequeen.spawn": {
+		"sounds": [
+			"forestcraft:mob/beequeen/spawn"
+		]
+	},
+	"entity.sea_devil.ambient": {
+		"sounds": [
+			"forestcraft:mob/sea_devil/sea_devil_ambient_0",
+			"forestcraft:mob/sea_devil/sea_devil_ambient_1",
+			"forestcraft:mob/sea_devil/sea_devil_ambient_2"
+		]
+	},
+	"entity.sea_devil.death": {
+		"sounds": [
+			"forestcraft:mob/sea_devil/sea_devil_death"
+		]
+	},
+	"entity.changeling.ambient": {
+		"sounds": [
+			"forestcraft:mob/changeling/changeling_ambient_0",
+			"forestcraft:mob/changeling/changeling_ambient_1",
+			"forestcraft:mob/changeling/changeling_ambient_2"
+		]
+	},
+	"entity.changeling.death": {
+		"sounds": [
+			"forestcraft:mob/changeling/changeling_death"
+		]
+	},
+	"entity.changeling.hurt": {
+		"sounds": [
+			"forestcraft:mob/changeling/changeling_hurt_0",
+			"forestcraft:mob/changeling/changeling_hurt_1"
+		]
+	},
+	"entity.changeling.parasite.ambient": {
+		"sounds": [
+			"forestcraft:mob/changeling/changeling_parasite_ambient_0",
+			"forestcraft:mob/changeling/changeling_parasite_ambient_1",
+			"forestcraft:mob/changeling/changeling_parasite_ambient_2"
+		]
+	},
+	"entity.changeling.parasite.attack": {
+		"sounds": [
+			"forestcraft:mob/changeling/changeling_parasite_attack"
+		]
+	},
+	"entity.changeling.parasite.death": {
+		"sounds": [
+			"forestcraft:mob/changeling/changeling_parasite_death"
+		]
+	},
+	"entity.changeling.parasite.hurt": {
+		"sounds": [
+			"forestcraft:mob/changeling/changeling_parasite_hurt"
+		]
+	},
+	"entity.changeling.transform": {
+		"sounds": [
+			"forestcraft:mob/changeling/changeling_transform"
+		]
+	},
+	"entity.cicada.ambient": {
+		"sounds": [
+			"forestcraft:mob/cicada/cicada_ambient_0",
+			"forestcraft:mob/cicada/cicada_ambient_1"
+		]
+	},
+	"entity.cicada.block": {
+		"sounds": [
+			"forestcraft:mob/cicada/cicada_block"
+		]
+	},
+	"entity.cicada.death": {
+		"sounds": [
+			"forestcraft:mob/cicada/cicada_death"
+		]
+	},
+	"entity.cicada.hurt": {
+		"sounds": [
+			"forestcraft:mob/cicada/cicada_hurt"
+		]
+	},
+	"entity.cosmic_fiend.ambient": {
+		"sounds": [
+			"forestcraft:mob/cosmic_fiend/cosmic_fiend_ambient"
+		]
+	},
+	"entity.cosmic_fiend.attack": {
+		"sounds": [
+			"forestcraft:mob/cosmic_fiend/cosmic_fiend_attack"
+		]
+	},
+	"entity.cosmic_fiend.hurt": {
+		"sounds": [
+			"forestcraft:mob/cosmic_fiend/cosmic_fiend_hurt"
+		]
+	},
+	"entity.crocus_flower.shoot": {
+		"sounds": [
+			"forestcraft:mob/crocus_flower/crocus_flower_shoot"
+		]
+	},
+	"entity.dandelioneer.ambient": {
+		"sounds": [
+			"forestcraft:mob/dandelioneer/dandelioneer_ambient_0",
+			"forestcraft:mob/dandelioneer/dandelioneer_ambient_1",
+			"forestcraft:mob/dandelioneer/dandelioneer_ambient_2",
+			"forestcraft:mob/dandelioneer/dandelioneer_ambient_3",
+			"forestcraft:mob/dandelioneer/dandelioneer_ambient_4"
+		]
+	},
+	"entity.dandelioneer.death": {
+		"sounds": [
+			"forestcraft:mob/dandelioneer/dandelioneer_death"
+		]
+	},
+	"entity.dandelioneer.hurt": {
+		"sounds": [
+			"forestcraft:mob/dandelioneer/dandelioneer_hurt_0",
+			"forestcraft:mob/dandelioneer/dandelioneer_hurt_1"
+		]
+	},
+	"entity.deer.ambient": {
+		"sounds": [
+			"forestcraft:mob/deer/deer_ambient_0",
+			"forestcraft:mob/deer/deer_ambient_1",
+			"forestcraft:mob/deer/deer_ambient_2"
+		]
+	},
+	"entity.deer.death": {
+		"sounds": [
+			"forestcraft:mob/deer/deer_death"
+		]
+	},
+	"entity.deer.horns": {
+		"sounds": [
+			"forestcraft:mob/deer/deer_horns"
+		]
+	},
+	"entity.deer.hurt": {
+		"sounds": [
+			"forestcraft:mob/deer/deer_hurt"
+		]
+	},
+	"entity.eater_of_the_depths.ambient": {
+		"sounds": [
+			"forestcraft:mob/eater_of_the_depths/eater_of_the_depths_ambient_0",
+			"forestcraft:mob/eater_of_the_depths/eater_of_the_depths_ambient_1",
+			"forestcraft:mob/eater_of_the_depths/eater_of_the_depths_ambient_2"
+		]
+	},
+	"entity.eater_of_the_depths.death": {
+		"sounds": [
+			"forestcraft:mob/eater_of_the_depths/eater_of_the_depths_death"
+		]
+	},
+	"entity.eater_of_the_depths.hurt": {
+		"sounds": [
+			"forestcraft:mob/eater_of_the_depths/eater_of_the_depths_hurt"
+		]
+	},
+	"entity.gem_golem.ambient": {
+		"sounds": [
+			"forestcraft:mob/gem_golem/gem_golem_ambient_0",
+			"forestcraft:mob/gem_golem/gem_golem_ambient_1"
+		]
+	},
+	"entity.gem_golem.death": {
+		"sounds": [
+			"forestcraft:mob/gem_golem/gem_golem_death"
+		]
+	},
+	"entity.gem_golem.hurt": {
+		"sounds": [
+			"forestcraft:mob/gem_golem/gem_golem_hurt_0",
+			"forestcraft:mob/gem_golem/gem_golem_hurt_1"
+		]
+	},
+	"entity.ghost.ambient": {
+		"sounds": [
+			"forestcraft:mob/ghost/ghost_ambient_0",
+			"forestcraft:mob/ghost/ghost_ambient_1",
+			"forestcraft:mob/ghost/ghost_ambient_2"
+		]
+	},
+	"entity.ghost.death": {
+		"sounds": [
+			"forestcraft:mob/ghost/ghost_death"
+		]
+	},
+	"entity.ghost.hurt": {
+		"sounds": [
+			"forestcraft:mob/ghost/ghost_hurt"
+		]
+	},
+	"entity.iguana.ambient": {
+		"sounds": [
+			"forestcraft:mob/iguana/iguana_ambient_0",
+			"forestcraft:mob/iguana/iguana_ambient_1",
+			"forestcraft:mob/iguana/iguana_ambient_2"
+		]
+	},
+	"entity.iguana.death": {
+		"sounds": [
+			"forestcraft:mob/iguana/iguana_death"
+		]
+	},
+	"entity.iguana.hurt": {
+		"sounds": [
+			"forestcraft:mob/iguana/iguana_hurt"
+		]
+	},
+	"entity.iguana_king.attack": {
+		"sounds": [
+			"forestcraft:mob/iguana_king/iguana_king_attack"
+		]
+	},
+	"entity.iguana_king.egg_shell": {
+		"sounds": [
+			"forestcraft:mob/iguana_king/egg_shell"
+		]
+	},
+	"entity.iguana_king.hurt": {
+		"sounds": [
+			"forestcraft:mob/iguana_king/iguana_king_hurt"
+		]
+	},
+	"entity.iguana_king.laugh": {
+		"sounds": [
+			"forestcraft:mob/iguana_king/iguana_king_laugh"
+		]
+	},
+	"entity.iguana_king.music": {
+		"sounds": [
+			"forestcraft:mob/iguana_king/iguana_king_theme"
+		]
+	},
+	"entity.iguana_king.scream": {
+		"sounds": [
+			"forestcraft:mob/iguana_king/iguana_king_scream"
+		]
+	},
+	"entity.iguana_king.step": {
+		"sounds": [
+			"forestcraft:mob/iguana_king/iguana_king_step"
+		]
+	},
+	"entity.infected_zombie.ambient": {
+		"sounds": [
+			"forestcraft:mob/infected_zombie/infected_zombie_ambient_0",
+			"forestcraft:mob/infected_zombie/infected_zombie_ambient_1",
+			"forestcraft:mob/infected_zombie/infected_zombie_ambient_2"
+		]
+	},
+	"entity.infected_zombie.death": {
+		"sounds": [
+			"forestcraft:mob/infected_zombie/infected_zombie_death"
+		]
+	},
+	"entity.infected_zombie.hurt": {
+		"sounds": [
+			"forestcraft:mob/infected_zombie/infected_zombie_hurt_0",
+			"forestcraft:mob/infected_zombie/infected_zombie_hurt_1"
+		]
+	},
+	"entity.insane_dog.ambient": {
+		"sounds": [
+			"forestcraft:mob/insane_dog/insane_dog_ambient_0",
+			"forestcraft:mob/insane_dog/insane_dog_ambient_1",
+			"forestcraft:mob/insane_dog/insane_dog_ambient_2",
+			"forestcraft:mob/insane_dog/insane_dog_ambient_3"
+		]
+	},
+	"entity.insane_dog.hurt": {
+		"sounds": [
+			"forestcraft:mob/insane_dog/insane_dog_hurt_0",
+			"forestcraft:mob/insane_dog/insane_dog_hurt_1"
+		]
+	},
+	"entity.insane_dog.lazer": {
+		"sounds": [
+			"forestcraft:mob/insane_dog/lazerbeam"
+		]
+	},
+	"entity.krock.ambient": {
+		"sounds": [
+			"forestcraft:mob/krock/krock_ambient_0",
+			"forestcraft:mob/krock/krock_ambient_1"
+		]
+	},
+	"entity.krock.death": {
+		"sounds": [
+			"forestcraft:mob/krock/krock_death"
+		]
+	},
+	"entity.krock.hurt": {
+		"sounds": [
+			"forestcraft:mob/krock/krock_hurt"
+		]
+	},
+	"entity.krock.rolling": {
+		"sounds": [
+			"forestcraft:mob/krock/krock_rolling_0",
+			"forestcraft:mob/krock/krock_rolling_1",
+			"forestcraft:mob/krock/krock_rolling_2",
+			"forestcraft:mob/krock/krock_rolling_3"
+		]
+	},
+	"entity.nether_scourge.ambient": {
+		"sounds": [
+			"forestcraft:mob/nether_scourge/nether_scourge_ambient"
+		]
+	},
+	"entity.nether_scourge.death": {
+		"sounds": [
+			"forestcraft:mob/nether_scourge/nether_scourge_death"
+		]
+	},
+	"entity.nether_scourge.hurt": {
+		"sounds": [
+			"forestcraft:mob/nether_scourge/nether_scourge_hurt_0",
+			"forestcraft:mob/nether_scourge/nether_scourge_hurt_1",
+			"forestcraft:mob/nether_scourge/nether_scourge_hurt_2"
+		]
+	},
+	"entity.nether_scourge.scream": {
+		"sounds": [
+			"forestcraft:mob/nether_scourge/nether_scourge_scream"
+		]
+	},
+	"entity.night_watcher.scream": {
+		"sounds": [
+			"forestcraft:mob/night_watcher/night_watcher_scream"
+		]
+	},
+	"entity.petrified_runestone_zombie.ambient": {
+		"sounds": [
+			"forestcraft:mob/petrified_runestone_zombie/say1",
+			"forestcraft:mob/petrified_runestone_zombie/say2",
+			"forestcraft:mob/petrified_runestone_zombie/say3"
+		]
+	},
+	"entity.petrified_runestone_zombie.death": {
+		"sounds": [
+			"forestcraft:mob/petrified_runestone_zombie/death"
+		]
+	},
+	"entity.petrified_runestone_zombie.hurt": {
+		"sounds": [
+			"forestcraft:mob/petrified_runestone_zombie/hurt1",
+			"forestcraft:mob/petrified_runestone_zombie/hurt2"
+		]
+	},
+	"entity.terror_bringer.ambient": {
+		"sounds": [
+			"forestcraft:mob/terror_bringer/terror_bird_ambient_0",
+			"forestcraft:mob/terror_bringer/terror_bird_ambient_1",
+			"forestcraft:mob/terror_bringer/terror_bird_ambient_2"
+		]
+	},
+	"entity.terror_bringer.death": {
+		"sounds": [
+			"forestcraft:mob/terror_bringer/terror_bird_death"
+		]
+	},
+	"entity.terror_bringer.hurt": {
+		"sounds": [
+			"forestcraft:mob/terror_bringer/terror_bird_hurt"
+		]
+	},
+	"entity.thunder_screamer.thunder_screamer_death": {
+		"sounds": [
+			"forestcraft:mob/thunder_screamer/thunder_screamer_death"
+		]
+	},
+	"entity.thunder_screamer.thunder_screamer_distant": {
+		"sounds": [
+			"forestcraft:mob/thunder_screamer/thunder_screamer_ambient_distant"
+		]
+	},
+	"entity.thunder_screamer.thunder_screamer_hurt": {
+		"sounds": [
+			"forestcraft:mob/thunder_screamer/thunder_screamer_hurt_0",
+			"forestcraft:mob/thunder_screamer/thunder_screamer_hurt_1"
+		]
+	},
+	"entity.wood_abomination.ambient": {
+		"sounds": [
+			"forestcraft:mob/wood_abomination/wood_abomination_ambient_0",
+			"forestcraft:mob/wood_abomination/wood_abomination_ambient_1"
+		]
+	},
+	"entity.wood_abomination.scream": {
+		"sounds": [
+			"forestcraft:mob/wood_abomination/wood_abomination_ambient_2"
+		]
+	},
+	"item.bullet.impact": {
+		"sounds": [
+			"forestcraft:item/bullet_impact"
+		]
+	},
+	"item.case.open": {
+		"sounds": [
+			"forestcraft:item/case_0",
+			"forestcraft:item/case_1",
+			"forestcraft:item/case_2"
+		]
+	},
+	"item.cream.use": {
+		"sounds": [
+			"forestcraft:item/cream_0",
+			"forestcraft:item/cream_1",
+			"forestcraft:item/cream_2",
+			"forestcraft:item/cream_3"
+		]
+	},
+	"item.daybreak.use": {
+		"sounds": [
+			"forestcraft:item/daybreak"
+		]
+	},
+	"item.demon_buster.use": {
+		"sounds": [
+			"forestcraft:item/demon_buster"
+		]
+	},
+	"item.electron.electrocut": {
+		"sounds": [
+			"forestcraft:item/passive_electrocut"
+		]
+	},
+	"item.electron.hit": {
+		"sounds": [
+			"forestcraft:item/electron_hit_0",
+			"forestcraft:item/electron_hit_1",
+			"forestcraft:item/electron_hit_2"
+		]
+	},
+	"item.equinox.use": {
+		"sounds": [
+			"forestcraft:item/item_equinox"
+		]
+	},
+	"item.fishing_rod.hook_retraction": {
+		"sounds": [
+			"forestcraft:item/fishing_rod_hook_retraction"
+		]
+	},
+	"item.gold_panning_sieve.use": {
+		"sounds": [
+			{
+				"name": "forestcraft:item/sieve_sound_0",
+				"volume": 0.25
+			},
+			{
+				"name": "forestcraft:item/sieve_sound_1",
+				"volume": 0.25
+			},
+			{
+				"name": "forestcraft:item/sieve_sound_2",
+				"volume": 0.25
+			},
+			{
+				"name": "forestcraft:item/sieve_sound_3",
+				"volume": 0.25
+			}
+		]
+	},
+	"item.minigun.loop": {
+		"sounds": [
+			"forestcraft:item/minigun_loop"
+		]
+	},
+	"item.minigun.start": {
+		"sounds": [
+			"forestcraft:item/minigun_start"
+		]
+	},
+	"item.minigun.stop": {
+		"sounds": [
+			"forestcraft:item/minigun_stop"
+		]
+	},
+	"item.random.medium_swing": {
+		"sounds": [
+			"forestcraft:item/medium_swing"
+		]
+	},
+	"item.random.short_swing": {
+		"sounds": [
+			"forestcraft:item/short_swing"
+		]
+	},
+	"item.scythe.whoosh": {
+		"sounds": [
+			"forestcraft:item/scythe_whoosh"
+		]
+	},
+	"item.scythe.whoosh_2": {
+		"sounds": [
+			"forestcraft:item/scythe"
+		]
+	},
+	"item.shy_shooter.ready": {
+		"sounds": [
+			"forestcraft:item/sky_shooter_charged"
+		]
+	},
+	"item.sky_shooter.use": {
+		"sounds": [
+			"forestcraft:item/sky_shooter_use"
+		]
+	},
+	"item.whistle.loop": {
+		"sounds": [
+			"forestcraft:item/whistle_use"
+		]
+	},
+	"item.whistle.use": {
+		"sounds": [
+			"forestcraft:item/begin_use_whistle"
+		]
+	},
+	"music.records.i_say_yes": {
+		"sounds": [
+			{
+				"name": "forestcraft:records/i_say_yes",
+				"stream": true
+			}
+		]
+	},
+	"music.records.latina": {
+		"sounds": [
+			{
+				"name": "forestcraft:records/latina",
+				"stream": true
+			}
+		]
+	},
+	"music.records.we_took_eachothers_hand": {
+		"sounds": [
+			{
+				"name": "forestcraft:records/we_took_eachothers_hand",
+				"stream": true
+			}
+		]
+	},
+	"note.electro_guitar": {
+		"sounds": [
+			"forestcraft:note/electro_guitar"
+		]
+	},
+	"note.tubular_bell": {
+		"sounds": [
+			"forestcraft:note/tubular_bell"
+		]
+	},
+	"note.waterphone": {
+		"sounds": [
+			"forestcraft:note/waterphone_0",
+			"forestcraft:note/waterphone_1",
+			"forestcraft:note/waterphone_2",
+			"forestcraft:note/waterphone_3",
+			"forestcraft:note/waterphone_4",
+			"forestcraft:note/waterphone_5"
+		]
+	}
+}

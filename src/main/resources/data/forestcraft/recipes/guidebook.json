@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "101",
+    "111"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:book"
+    },
+    "1": {
+      "item": "forestcraft:bunch_of_grass"
+    }
+  },
+  "result": {
+    "item": "forestcraft:guidebook"
+  }
+}

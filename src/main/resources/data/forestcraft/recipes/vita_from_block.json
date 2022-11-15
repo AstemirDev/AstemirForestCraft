@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:vita_block"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:vita",
+    "count": 9
+  }
+}

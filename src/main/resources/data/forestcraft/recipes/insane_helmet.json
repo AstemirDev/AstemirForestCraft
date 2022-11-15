@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X#",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "forestcraft:insane_wool"
+    },
+    "X": {
+      "item": "forestcraft:alpha_insane_dog_eye"
+    }
+  },
+  "result": {
+    "item": "forestcraft:insane_helmet"
+  }
+}

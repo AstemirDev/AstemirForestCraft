@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "forestcraft:sharped_leaf"
+    }
+  },
+  "result": {
+    "item": "forestcraft:sharped_leaf_leggings"
+  }
+}

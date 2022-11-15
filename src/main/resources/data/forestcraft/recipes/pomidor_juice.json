@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:pomidor"
+    },
+    {
+      "item": "forestcraft:pomidor"
+    },
+    {
+      "item": "forestcraft:pomidor"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:pomidor_juice"
+  }
+}

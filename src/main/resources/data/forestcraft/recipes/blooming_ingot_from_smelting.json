@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "forestcraft:blooming_log"
+  },
+  "result": "forestcraft:blooming_ingot",
+  "experience": 1.0,
+  "cookingtime": 800
+}

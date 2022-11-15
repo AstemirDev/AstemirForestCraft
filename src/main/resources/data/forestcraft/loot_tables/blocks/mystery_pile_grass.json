@@ -1,0 +1,55 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "forestcraft:dirt_with_iron"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "forestcraft:dirt_with_worms"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "forestcraft:dirt_with_seeds"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "forestcraft:dirt_with_bones"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "forestcraft:dirt_with_dirtscalibur"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:cobblestone"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:iron_nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 14,
+          "name": "minecraft:stick"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "forestcraft:dirtscalibur"
+        }
+      ]
+    }
+  ]
+}

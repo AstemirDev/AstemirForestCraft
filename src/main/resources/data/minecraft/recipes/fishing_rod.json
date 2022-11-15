@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 21",
+    "231"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:string"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "forestcraft:fishing_hook"
+    }
+  },
+  "result": {
+    "item": "minecraft:fishing_rod"
+  }
+}

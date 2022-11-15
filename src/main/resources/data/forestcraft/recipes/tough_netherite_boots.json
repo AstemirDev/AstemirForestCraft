@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:fire_resistant_boots"
+    },
+    {
+      "item": "forestcraft:sky_walkers"
+    },
+    {
+      "item": "minecraft:netherite_boots"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:tough_netherite_boots"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "forestcraft:block/pomidor_sapling_0"
+    },
+    "age=1": {
+      "model": "forestcraft:block/pomidor_sapling_1"
+    },
+    "age=2": {
+      "model": "forestcraft:block/pomidor_sapling_2"
+    },
+    "age=3": {
+      "model": "forestcraft:block/pomidor_sapling_3"
+    }
+  }
+}

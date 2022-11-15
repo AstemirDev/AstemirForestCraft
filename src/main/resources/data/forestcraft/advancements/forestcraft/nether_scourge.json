@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "forestcraft:demon_food"
+    },
+    "title": {
+      "translate": "advancements.forestcraft.kill_nether_scourge_title"
+    },
+    "description": {
+      "translate": "advancements.forestcraft.kill_nether_scourge_description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "forestcraft:forestcraft/runestone_hero",
+  "criteria": {
+    "killed_nether_scourge": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "forestcraft:nether_scourge"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 150
+  }
+}

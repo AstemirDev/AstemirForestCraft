@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX ",
+    "X# ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "forestcraft:sharped_leaf"
+    }
+  },
+  "result": {
+    "item": "forestcraft:sharped_leaf_axe"
+  }
+}

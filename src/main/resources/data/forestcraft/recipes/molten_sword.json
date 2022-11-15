@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_rod"
+    },
+    "X": {
+      "item": "forestcraft:molten_ingot"
+    }
+  },
+  "result": {
+    "item": "forestcraft:molten_sword"
+  }
+}

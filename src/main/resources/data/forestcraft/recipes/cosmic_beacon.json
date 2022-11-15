@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "#0#",
+    "###"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_star"
+    },
+    "1": {
+      "item": "forestcraft:sky_fragment"
+    },
+    "#": {
+      "item": "forestcraft:enderite_ingot"
+    }
+  },
+  "result": {
+    "item": "forestcraft:cosmic_beacon"
+  }
+}

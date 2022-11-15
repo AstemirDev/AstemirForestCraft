@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "forestcraft:bakudan_ball"
+  },
+  "addition": {
+    "item": "forestcraft:prismatic_diamond"
+  },
+  "result": {
+    "item": "forestcraft:true_bakudan_ball"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "1#1",
+    "101",
+    "020"
+  ],
+  "key": {
+    "0": {
+      "item": "forestcraft:sky_fragment"
+    },
+    "1": {
+      "item": "forestcraft:rotten_flesh_block"
+    },
+    "2": {
+      "item": "forestcraft:eternal_hunger_chestplate"
+    },
+    "#": {
+      "item": "minecraft:elytra"
+    }
+  },
+  "result": {
+    "item": "forestcraft:flesh_wings"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "forestcraft:spectralum_ore"
+  },
+  "result": "forestcraft:spectralum",
+  "experience": 1.0,
+  "cookingtime": 800
+}

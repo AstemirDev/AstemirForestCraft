@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "forestcraft:item/fossil_brush"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "used": 1
+            },
+            "model": "forestcraft:item/fossil_brush_used"
+        }
+    ]
+}

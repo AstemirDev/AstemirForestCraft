@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:seven_league_boots"
+    },
+    {
+      "item": "forestcraft:light_boots"
+    },
+    {
+      "item": "forestcraft:sky_fragment"
+    },
+    {
+      "item": "forestcraft:sky_fragment"
+    },
+    {
+      "item": "forestcraft:sky_fragment"
+    },
+    {
+      "item": "forestcraft:sky_fragment"
+    },
+    {
+      "item": "forestcraft:sky_fragment"
+    },
+    {
+      "item": "forestcraft:sky_fragment"
+    },
+    {
+      "item": "forestcraft:sky_fragment"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:sky_walkers"
+  }
+}

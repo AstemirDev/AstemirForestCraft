@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "forestcraft:block/mystery_wood_log_top",
+    "side": "forestcraft:block/mystery_wood_log"
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "forestcraft:item/tide_dweller",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [-90, 0, 90],
+			"translation": [-12, 3, 0]
+		}
+	}
+}

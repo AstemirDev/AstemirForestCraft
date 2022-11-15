@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "forestcraft:aquamarine_ore"
+  },
+  "result": "forestcraft:aquamarine",
+  "experience": 1.0,
+  "cookingtime": 400
+}

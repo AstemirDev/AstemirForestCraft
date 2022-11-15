@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    " ##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "nbt": "{Damage:10}",
+    "type": "minecraft:item_nbt",
+    "item": "forestcraft:watering_can"
+  }
+}

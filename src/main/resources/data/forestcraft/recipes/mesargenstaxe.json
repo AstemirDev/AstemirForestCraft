@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 10",
+    "121",
+    " 1 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "1": {
+      "item": "forestcraft:krock_skin"
+    },
+    "2": {
+      "item": "forestcraft:mesargenstern"
+    }
+  },
+  "result": {
+    "item": "forestcraft:mesargenstaxe"
+  }
+}

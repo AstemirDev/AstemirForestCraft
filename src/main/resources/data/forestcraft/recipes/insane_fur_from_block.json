@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:insane_wool"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:insane_fur",
+    "count": 4
+  }
+}

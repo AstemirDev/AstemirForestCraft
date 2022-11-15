@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "forestcraft:flesher"
+  },
+  "result": "forestcraft:cooked_flesher",
+  "experience": 0.4,
+  "cookingtime": 110
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "forestcraft:item/custom_bow",
+    "textures": {
+        "layer0": "forestcraft:item/soul_conqueror_pulling_1"
+    }
+}

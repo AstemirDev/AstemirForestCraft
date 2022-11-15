@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "forestcraft:item/iron_watering_can"
+  },
+  "overrides": [
+      {
+          "predicate": {
+              "filled": 1
+          },
+          "model": "forestcraft:item/iron_watering_can_filled"
+      }
+  ]
+}

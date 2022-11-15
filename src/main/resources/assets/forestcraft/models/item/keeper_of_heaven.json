@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "forestcraft:item/keeper_of_heaven"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "used": 1
+            },
+            "model": "forestcraft:item/keeper_of_heaven_used"
+        }
+    ]
+}

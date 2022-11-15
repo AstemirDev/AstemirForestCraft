@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "forestcraft:glue_mass"
+  },
+  "result": "forestcraft:glue",
+  "experience": 0.4,
+  "cookingtime": 220
+}

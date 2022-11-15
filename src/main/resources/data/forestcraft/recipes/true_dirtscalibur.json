@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "forestcraft:dirtscalibur"
+  },
+  "addition": {
+    "item": "forestcraft:prismatic_diamond"
+  },
+  "result": {
+    "item": "forestcraft:true_dirtscalibur"
+  }
+}

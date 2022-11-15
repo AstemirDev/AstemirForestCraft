@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:sulfur"
+    },
+    {
+      "item": "forestcraft:niter"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gunpowder"
+  }
+}

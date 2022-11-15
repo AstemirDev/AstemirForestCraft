@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "forestcraft:redstone_bass",
+    "count": 4
+  },
+  "result": "minecraft:redstone",
+  "experience": 0.1,
+  "cookingtime": 200
+}

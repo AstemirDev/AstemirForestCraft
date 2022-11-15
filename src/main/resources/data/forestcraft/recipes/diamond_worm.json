@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "101",
+    "111"
+  ],
+  "key": {
+    "0": {
+      "item": "forestcraft:golden_worm"
+    },
+    "1": {
+      "item": "forestcraft:broken_diamond"
+    }
+  },
+  "result": {
+    "item": "forestcraft:diamond_worm"
+  }
+}

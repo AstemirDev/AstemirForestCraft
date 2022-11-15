@@ -1,0 +1,17 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"using": {
+			"loop": true,
+			"animation_length": 0.52,
+			"bones": {
+				"rotator": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.52": [0, 0, 360]
+					}
+				}
+			}
+		}
+	}
+}

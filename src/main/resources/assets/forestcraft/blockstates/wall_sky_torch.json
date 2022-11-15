@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "forestcraft:block/wall_sky_torch"
+    },
+    "facing=north": {
+      "model": "forestcraft:block/wall_sky_torch",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "forestcraft:block/wall_sky_torch",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "forestcraft:block/wall_sky_torch",
+      "y": 180
+    }
+  }
+}

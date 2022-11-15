@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "forestcraft:pearlstone"
+  },
+  "result": "forestcraft:pearlstone_wall",
+  "count": 1
+}

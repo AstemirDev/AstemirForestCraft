@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "forestcraft:sheaf_of_grass"
+    }
+  },
+  "result": {
+    "item": "forestcraft:grass_carpet",
+    "count": 4
+  }
+}

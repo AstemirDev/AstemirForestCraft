@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    " #",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "forestcraft:blooming_ingot"
+    }
+  },
+  "result": {
+    "item": "forestcraft:blooming_hoe"
+  }
+}

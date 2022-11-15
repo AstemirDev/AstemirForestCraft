@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:pomidor"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:pomidor_seeds",
+    "count": 3
+  }
+}

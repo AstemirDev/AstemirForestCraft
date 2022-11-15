@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "forestcraft:block/sky_stone"
+      },
+      {
+        "model": "forestcraft:block/sky_stone_mirrored"
+      },
+      {
+        "model": "forestcraft:block/sky_stone",
+        "y": 180
+      },
+      {
+        "model": "forestcraft:block/sky_stone_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

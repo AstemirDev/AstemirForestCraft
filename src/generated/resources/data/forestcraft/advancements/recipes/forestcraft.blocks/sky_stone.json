@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "forestcraft:sky_stone"
+    ]
+  },
+  "criteria": {
+    "has_sky_fragment": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "forestcraft:sky_fragment"
+          }
+        ]
+      }
+    },
+    "has_cobblestone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cobblestone"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "forestcraft:sky_stone"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_sky_fragment",
+      "has_cobblestone",
+      "has_the_recipe"
+    ]
+  ]
+}

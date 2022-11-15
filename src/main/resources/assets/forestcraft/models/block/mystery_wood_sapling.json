@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "forestcraft:block/mystery_wood_sapling"
+  }
+}

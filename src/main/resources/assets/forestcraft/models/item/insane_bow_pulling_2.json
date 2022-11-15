@@ -1,0 +1,6 @@
+{
+    "parent": "forestcraft:item/custom_bow",
+    "textures": {
+        "layer0": "forestcraft:item/insane_bow_pulling_2"
+    }
+}

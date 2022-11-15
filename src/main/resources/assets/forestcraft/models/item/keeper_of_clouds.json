@@ -1,0 +1,6 @@
+{
+	"parent": "forestcraft:item/handheld32x32",
+	"textures": {
+		"layer0": "forestcraft:item/keeper_of_clouds"
+	}
+}

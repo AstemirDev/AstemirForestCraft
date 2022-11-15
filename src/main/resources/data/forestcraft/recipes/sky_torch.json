@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "1",
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1":{
+      "item": "forestcraft:sky_fragment"
+    }
+  },
+  "result": {
+    "item": "forestcraft:sky_torch"
+  }
+}

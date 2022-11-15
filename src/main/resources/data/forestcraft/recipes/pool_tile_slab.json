@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "forestcraft:pool_tile_block"
+    }
+  },
+  "result": {
+    "item": "forestcraft:pool_tile_slab",
+    "count": 6
+  }
+}

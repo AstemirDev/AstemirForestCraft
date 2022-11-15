@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "forestcraft:gem_ore"
+  },
+  "result": "forestcraft:gem",
+  "experience": 1.0,
+  "cookingtime": 800
+}

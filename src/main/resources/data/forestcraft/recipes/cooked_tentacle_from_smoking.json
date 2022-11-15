@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "forestcraft:air_sucker_tentacle"
+  },
+  "result": "forestcraft:cooked_tentacle",
+  "experience": 0.4,
+  "cookingtime": 110
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "101",
+    "0#0"
+  ],
+  "key": {
+    "0": {
+      "item": "forestcraft:sky_fragment"
+    },
+    "1": {
+      "item": "forestcraft:soul_essence"
+    },
+    "#": {
+      "item": "minecraft:elytra"
+    }
+  },
+  "result": {
+    "item": "forestcraft:angel_wings"
+  }
+}

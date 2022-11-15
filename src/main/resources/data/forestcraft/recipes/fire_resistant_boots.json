@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#1#",
+    "#0#",
+    "###"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond_boots"
+    },
+    "1": {
+      "item": "forestcraft:molten_ingot"
+    },
+    "#": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "forestcraft:fire_resistant_boots"
+  }
+}

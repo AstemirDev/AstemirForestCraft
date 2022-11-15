@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX#",
+    "  X",
+    "  X"
+  ],
+  "key": {
+    "#": {
+      "item": "forestcraft:fire_liquid"
+    },
+    "X": {
+      "item": "forestcraft:molten_ingot"
+    }
+  },
+  "result": {
+    "item": "forestcraft:fire_fury"
+  }
+}

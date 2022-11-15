@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:niter_block"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:niter",
+    "count": 9
+  }
+}

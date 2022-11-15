@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:leather_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:leather",
+    "count": 9
+  }
+}

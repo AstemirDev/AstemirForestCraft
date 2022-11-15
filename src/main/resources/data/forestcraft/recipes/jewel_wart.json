@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#0#",
+    "###"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_wart"
+    },
+    "#": {
+      "item": "forestcraft:gem"
+    }
+  },
+  "result": {
+    "item": "forestcraft:jewel_wart"
+  }
+}

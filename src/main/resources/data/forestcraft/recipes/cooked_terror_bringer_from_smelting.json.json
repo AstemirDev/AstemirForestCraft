@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "forestcraft:terror_bringer_meat"
+  },
+  "result": "forestcraft:cooked_terror_bringer_meat",
+  "experience": 0.4,
+  "cookingtime": 220
+}

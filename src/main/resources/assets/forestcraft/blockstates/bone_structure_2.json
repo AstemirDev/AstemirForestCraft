@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "forestcraft:block/bone_structure_2",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "forestcraft:block/bone_structure_2",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "forestcraft:block/bone_structure_2"
+    },
+    "facing=west": {
+      "model": "forestcraft:block/bone_structure_2",
+      "y": 90
+    }
+  }
+}

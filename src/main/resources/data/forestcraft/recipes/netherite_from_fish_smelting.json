@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "forestcraft:netheroach"
+  },
+  "result": "forestcraft:netherite_scrap_plate",
+  "experience": 1.0,
+  "cookingtime": 200
+}

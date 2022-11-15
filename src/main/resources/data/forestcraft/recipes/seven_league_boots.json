@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:leather_boots"
+    },
+    "X": {
+      "item": "forestcraft:terror_bringer_feather"
+    }
+  },
+  "result": {
+    "item": "forestcraft:seven_league_boots"
+  }
+}

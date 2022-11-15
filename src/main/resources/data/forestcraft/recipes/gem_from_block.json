@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:gem_block"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:gem",
+    "count": 9
+  }
+}

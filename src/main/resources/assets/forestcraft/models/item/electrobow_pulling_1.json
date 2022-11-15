@@ -1,0 +1,6 @@
+{
+    "parent": "forestcraft:item/custom_bow",
+    "textures": {
+        "layer0": "forestcraft:item/electrobow_pulling_1"
+    }
+}

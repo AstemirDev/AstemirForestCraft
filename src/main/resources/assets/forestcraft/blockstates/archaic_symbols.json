@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "forestcraft:block/archaic_symbols_0"
+      },
+      {
+        "model": "forestcraft:block/archaic_symbols_1"
+      },
+      {
+        "model": "forestcraft:block/archaic_symbols_2"
+      },
+      {
+        "model": "forestcraft:block/archaic_symbols_0",
+        "y": 180
+      },
+      {
+        "model": "forestcraft:block/archaic_symbols_1",
+        "y": 180
+      },
+      {
+        "model": "forestcraft:block/archaic_symbols_2",
+        "y": 180
+      }
+    ]
+  }
+}

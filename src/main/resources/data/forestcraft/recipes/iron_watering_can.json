@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    " ##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "nbt": "{Damage:20}",
+    "type": "minecraft:item_nbt",
+    "item": "forestcraft:iron_watering_can"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:sulfur_block"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:sulfur",
+    "count": 9
+  }
+}

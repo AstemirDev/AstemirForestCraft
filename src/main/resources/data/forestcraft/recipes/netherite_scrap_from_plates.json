@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:netherite_scrap_plate"
+    },
+    {
+      "item": "forestcraft:netherite_scrap_plate"
+    }
+  ],
+  "result": {
+    "item": "minecraft:netherite_scrap"
+  }
+}

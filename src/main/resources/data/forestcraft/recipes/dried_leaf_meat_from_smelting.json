@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "forestcraft:leaf_meat"
+  },
+  "result": "forestcraft:dried_leaf_meat",
+  "experience": 0.4,
+  "cookingtime": 220
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:stone_bass"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stone",
+    "count": 1
+  }
+}

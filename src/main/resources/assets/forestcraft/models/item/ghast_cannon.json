@@ -1,0 +1,32 @@
+{
+  "parent": "forestcraft:item/gunheld",
+  "textures": {
+    "layer0": "forestcraft:item/ghast_cannon"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [0, 90, 0],
+      "translation": [0.25, 5.5, -3.25]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, -90, 0],
+      "translation": [0.25, 5.5, -3.25]
+    },
+    "firstperson_righthand": {
+      "rotation": [30, 105, 0],
+      "translation": [-1, 4, -2.75]
+    },
+    "firstperson_lefthand": {
+      "rotation": [30, -95, 0],
+      "translation": [2, 4, -2.75]
+    }
+  },
+  "overrides": [
+      {
+          "predicate": {
+              "charged": 1
+          },
+          "model": "forestcraft:item/ghast_cannon_active"
+      }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "forestcraft:block/sheaf_of_grass_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "forestcraft:block/sheaf_of_grass"
+    },
+    "axis=z": {
+      "model": "forestcraft:block/sheaf_of_grass_horizontal",
+      "x": 90
+    }
+  }
+}

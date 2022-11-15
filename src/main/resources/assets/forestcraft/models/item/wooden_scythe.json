@@ -1,0 +1,6 @@
+{
+  "parent": "forestcraft:item/scythe",
+  "textures": {
+    "layer0": "forestcraft:item/wooden_scythe"
+  }
+}

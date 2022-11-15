@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "121",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:acacia_planks"
+    },
+    "1":{
+      "item": "minecraft:stick"
+    },
+    "2":{
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "forestcraft:snare"
+  }
+}

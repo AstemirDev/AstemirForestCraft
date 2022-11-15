@@ -1,0 +1,14 @@
+{
+  "parent": "item/shield",
+  "textures": {
+    "layer0": "forestcraft:entity/shield/prehistoric_shield"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "forestcraft:blocking": 1
+      },
+      "model": "forestcraft:item/prehistoric_shield_blocking"
+    }
+  ]
+}

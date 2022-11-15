@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0#0",
+    "0#0",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "forestcraft:insane_wool"
+    },
+    "0": {
+      "item": "forestcraft:bat_wing"
+    }
+  },
+  "result": {
+    "item": "forestcraft:battler"
+  }
+}

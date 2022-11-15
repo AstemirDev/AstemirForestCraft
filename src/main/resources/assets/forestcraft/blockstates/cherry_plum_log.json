@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "forestcraft:block/cherry_plum_log_horizontal",
+      "x": 90.0,
+      "y": 90.0
+    },
+    "axis=y": {
+      "model": "forestcraft:block/cherry_plum_log"
+    },
+    "axis=z": {
+      "model": "forestcraft:block/cherry_plum_log_horizontal",
+      "x": 90.0
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:prismatic_block"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:prismatic_diamond",
+    "count": 9
+  }
+}

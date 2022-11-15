@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_rh",
+  "textures": {
+    "top": "forestcraft:block/mystery_wood_door_top",
+    "bottom": "forestcraft:block/mystery_wood_door_bottom"
+  }
+}

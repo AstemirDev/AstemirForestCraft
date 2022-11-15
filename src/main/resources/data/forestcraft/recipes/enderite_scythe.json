@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "forestcraft:netherite_scythe"
+  },
+  "addition": {
+    "item": "forestcraft:enderite_ingot"
+  },
+  "result": {
+    "item": "forestcraft:enderite_scythe"
+  }
+}

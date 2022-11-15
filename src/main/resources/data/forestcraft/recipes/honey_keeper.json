@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "#X#",
+    "AAA"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:honeycomb"
+    },
+    "A": {
+      "item": "minecraft:honey_block"
+    },
+    "X": {
+      "item": "forestcraft:giant_stinger"
+    }
+  },
+  "result": {
+    "item": "forestcraft:honey_keeper"
+  }
+}

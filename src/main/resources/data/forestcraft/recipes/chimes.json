@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "000",
+    "222"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:string"
+    },
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "2": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "forestcraft:chimes"
+  }
+}

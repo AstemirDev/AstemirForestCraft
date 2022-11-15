@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forestcraft:blooming_block"
+    }
+  ],
+  "result": {
+    "item": "forestcraft:blooming_ingot",
+    "count": 9
+  }
+}

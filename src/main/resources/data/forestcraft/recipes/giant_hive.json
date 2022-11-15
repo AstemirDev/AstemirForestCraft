@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "020",
+    "010",
+    "020"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:honeycomb_block"
+    },
+    "1":{
+      "item": "forestcraft:killer_bee"
+    },
+     "2":{
+      "item": "minecraft:bee_nest"
+    }
+  },
+  "result": {
+    "item": "forestcraft:giant_hive"
+  }
+}

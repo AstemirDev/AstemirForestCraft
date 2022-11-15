@@ -1,0 +1,177 @@
+{
+	"air_sucker": {
+        "path": "air_sucker.txt",
+        "position": [64,64],
+        "scale": 40
+    },
+    "alpha_insane_dog":{
+        "path": "alpha_insane_dog.txt",
+        "position": [64,128],
+        "scale": 30
+    },
+    "archaic_sentinel": {
+        "path": "archaic_sentinel.txt",
+        "position": [64,140],
+        "scale": 30
+    },
+    "bakudan":{
+        "path": "bakudan.txt",
+        "position": [64,128],
+        "scale": 60
+    },
+    "beequeen":{
+        "path": "beequeen.txt",
+        "position": [64,128],
+        "scale": 20
+    },
+    "cicada": {
+        "path": "cicada.txt",
+        "position": [64,128],
+        "scale": 60
+    },
+    "worm": {
+        "path": "worm.txt",
+        "position": [64,128],
+        "scale": 65
+    },
+    "cosmic_fiend": {
+        "path": "cosmic_fiend.txt",
+        "position": [64,140],
+        "scale": 10
+    },
+    "crocus_flower": {
+        "path": "crocus_flower.txt",
+        "position": [64,128],
+        "scale": 40
+    },
+    "dandelioneer": {
+        "path": "dandelioneer.txt",
+        "position": [64,128],
+        "scale": 60
+    },
+    "deer": {
+        "path": "deer.txt",
+        "position": [64,128],
+        "scale": 40
+    },
+    "eater_of_the_depths": {
+        "path": "eater_of_the_depths.txt",
+        "position": [96,128],
+        "scale": 20
+    },
+    "gem_golem": {
+        "path": "gem_golem.txt",
+        "position": [64,128],
+        "scale": 50
+    },
+    "iguana_king": {
+        "path": "iguana_king.txt",
+        "position": [64,128],
+        "scale": 20
+    },
+    "infected_zombie": {
+        "path": "infected_zombie.txt",
+        "position": [64,128],
+        "scale": 40
+    },
+    "insane_dog": {
+        "path": "insane_dog.txt",
+        "position": [64,128],
+        "scale": 50
+    },
+    "kelpy": {
+        "path": "kelpy.txt",
+        "position": [64,128],
+        "scale": 20
+    },
+    "killer_bee": {
+        "path": "killer_bee.txt",
+        "position": [64,128],
+        "scale": 60
+    },
+    "krock": {
+        "path": "krock.txt",
+        "position": [64,128],
+        "scale": 40
+    },
+    "nether_bat": {
+        "path": "nether_bat.txt",
+        "position": [64,128],
+        "scale": 40
+    },
+    "night_bat": {
+        "path": "night_bat.txt",
+        "position": [64,128],
+        "scale": 40
+    },
+    "night_watcher": {
+        "path": "night_watcher.txt",
+        "position": [64,128],
+        "scale": 30
+    },
+    "petrified_zombie": {
+        "path": "petrified_zombie.txt",
+        "position": [64,128],
+        "scale": 40
+    },
+    "soul_blaze": {
+        "path": "soul_blaze.txt",
+        "position": [64,128],
+        "scale": 40
+    },
+    "terror_bringer": {
+        "path": "terror_bringer.txt",
+        "position": [64,128],
+        "scale": 30
+    },
+    "thunder_screamer": {
+        "path": "thunder_screamer.txt",
+        "position": [64,128],
+        "scale": 20
+    },
+    "wood_abomination": {
+        "path": "wood_abomination.txt",
+        "position": [64,128],
+        "scale": 40
+    },
+    "desecrated_soul": {
+        "path": "desecrated_soul.txt",
+        "position": [64,128],
+        "scale": 40
+    },
+    "nether_scourge":{
+        "path": "nether_scourge.txt",
+        "position": [96,128],
+        "scale": 20
+    },
+    "iguana":{
+        "path": "iguana.txt",
+        "position": [64,128],
+        "scale": 40
+    },
+    "jungle_wasp": {
+        "path": "jungle_wasp.txt",
+        "position": [64,128],
+        "scale": 60
+    },
+    "cloud_ray": {
+        "path": "cloud_ray.txt",
+        "position": [64,128],
+        "scale": 25
+    },
+    "changeling": {
+        "path": "changeling.txt",
+        "position": [64,128],
+        "scale": 60
+    },
+    "sea_devil": {
+        "path": "sea_devil.txt",
+        "position": [64,128],
+        "scale": 40
+    },
+    "water_bug": {
+        "path": "water_bug.txt",
+        "position": [64,128],
+        "scale": 40
+    }
+}

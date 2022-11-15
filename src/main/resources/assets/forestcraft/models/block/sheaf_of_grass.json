@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "forestcraft:block/sheaf_of_grass_top",
+    "side": "forestcraft:block/sheaf_of_grass_side"
+  }
+}

@@ -1,0 +1,14 @@
+{
+   "parent": "item/generated",
+	"textures": {
+	"layer0": "forestcraft:item/rain_flute"
+	},
+	"overrides": [
+	    {
+	        "predicate": {
+	            "used": 1
+	        },
+	        "model": "forestcraft:item/rain_flute_used"
+	    }
+	]
+}
